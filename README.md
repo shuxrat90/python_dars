@@ -1,4 +1,4 @@
 # python_dars
 python
 Hello world
-salom ortoq askarlar
+salom ortoq askarlar salomo salom
